@@ -1,0 +1,14 @@
+
+Data Science Bootcamp - HyperionDev
+
+Personal Project License
+
+Copyright (c) 2023 T Nguyen
+
+This repository contains original code created by T Nguyen for the purposes of completing tasks during a data science bootcamp.
+
+The code is provided 'as is', for personal and educational use only. Any commercial use is prohibited without explicit written permission from the author.
+
+No warranties are provided, expressed or implied, for any matter including but not limited to fitness for a particular purpose.
+
+For permissions and other inquiries, contact the author at ttmy.nguyen3@gmail.com.
